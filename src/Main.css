@@ -1,0 +1,23 @@
+.App {
+    background-image: linear-gradient(lightskyblue,lightgray);
+    text-align: center;
+    border: 4px solid black;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.App-div,.border,.miniClass{
+    text-align: center;
+    border: 4px solid darkolivegreen;
+    padding: 10px;
+    margin-bottom: 1px;
+  }
+.wrap{
+    border: 4px solid grey;
+    background-image: linear-gradient(orange,lightseagreen);
+    text-align: center;
+    width: 50%;
+    margin-left: 320px;
+}
+h1{
+    color: darkblue;
+}
